@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Feb 2023 17:39:27 at https://smallcharge.ml/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://smallcharge.ml/ -O1 "C:\Users\lenovo\OneDrive\Desktop\Medicozcekah2\Medicoz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:40:59	Warning: 	File not parsed, looks like binary: https://smallcharge.ml/plugins/revolution/css/openhand.cur
+17:40:59	Warning: 	File not parsed, looks like binary: https://smallcharge.ml/plugins/revolution/css/closedhand.cur
+17:41:09	Error: 	"Not Found" (404) at link https://smallcharge.ml/images/resource/products/8.jpg (from https://smallcharge.ml/shop.html)
+17:41:09	Error: 	"Not Found" (404) at link https://smallcharge.ml/fonts/Flaticon.woff (from https://smallcharge.ml/css/flaticon.css)
+17:41:09	Error: 	"Not Found" (404) at link https://smallcharge.ml/fonts/fa-brands-400.woff (from https://smallcharge.ml/css/fontawesome-all.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/fonts/fa-regular-400.woff (from https://smallcharge.ml/css/fontawesome-all.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/fonts/fa-solid-900.woff (from https://smallcharge.ml/css/fontawesome-all.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/css/owl.video.play.png (from https://smallcharge.ml/css/owl.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/css/images/ui-icons_ffffff_256x240.png (from https://smallcharge.ml/css/jquery-ui.min.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/css/images/ui-icons_777620_256x240.png (from https://smallcharge.ml/css/jquery-ui.min.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/css/images/ui-icons_cc0000_256x240.png (from https://smallcharge.ml/css/jquery-ui.min.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/css/images/ui-icons_777777_256x240.png (from https://smallcharge.ml/css/jquery-ui.min.css)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/images/gallery/1-7.jpg (from https://smallcharge.ml/gallery.html)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/images/gallery/1-8.jpg (from https://smallcharge.ml/gallery.html)
+17:41:10	Error: 	"Not Found" (404) at link https://smallcharge.ml/images/gallery/1-9.jpg (from https://smallcharge.ml/gallery.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 43 seconds : 287 links scanned, 273 files written (25851639 bytes overall) [20720085 bytes received at 201165 bytes/sec], 25740837 bytes transferred using HTTP compression in 282 files, ratio 79%, 57.4 requests per connection
+(13 errors, 2 warnings, 0 messages)
